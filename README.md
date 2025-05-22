@@ -21,5 +21,6 @@ Une application web pour afficher des blagues en utilisant une API rest, crée a
 - Express
 - React
 - Tailwindcss
+- Github Pages
 
 ---
