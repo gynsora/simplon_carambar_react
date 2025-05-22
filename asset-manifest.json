@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/simplon_carambar_react/static/css/main.3359d49e.css",
-    "main.js": "/simplon_carambar_react/static/js/main.852effb8.js",
+    "main.js": "/simplon_carambar_react/static/js/main.8601b2fa.js",
     "static/media/Banniere-carambar.jpg": "/simplon_carambar_react/static/media/Banniere-carambar.c93a05b046752c3a2811.jpg",
     "index.html": "/simplon_carambar_react/index.html",
     "main.3359d49e.css.map": "/simplon_carambar_react/static/css/main.3359d49e.css.map",
-    "main.852effb8.js.map": "/simplon_carambar_react/static/js/main.852effb8.js.map"
+    "main.8601b2fa.js.map": "/simplon_carambar_react/static/js/main.8601b2fa.js.map"
   },
   "entrypoints": [
     "static/css/main.3359d49e.css",
-    "static/js/main.852effb8.js"
+    "static/js/main.8601b2fa.js"
   ]
 }
