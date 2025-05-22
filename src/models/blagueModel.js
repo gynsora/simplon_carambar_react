@@ -1,4 +1,4 @@
-const API_URL = "/blagues/random"; //le reste de l'url est dans le "proxy" de package json
+const API_URL = "https://simplon-carambar-api.onrender.com/blagues/random"; 
 
 export async function fetchRandomBlague() {
   const response = await fetch(`${API_URL}`);
