@@ -1,10 +1,10 @@
-import { fetchBlague } from "../models/blagueModel";
+import { fetchRandomBlague } from "../models/blagueModel";
 
-export async function getBlague() {
+export async function getRandomBlague() {
   try {
-    const blague = await fetchBlague();
+    const randomBlague = await fetchRandomBlague();
     //console.log(blague);
-    return blague;
+    return randomBlague;
   } catch (error) {
     //console.error("Erreur dans le controller:", error);
     return [];

@@ -36,5 +36,8 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://simplon-carambar-api.onrender.com"
+  "proxy": "https://simplon-carambar-api.onrender.com",
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  }
 }
